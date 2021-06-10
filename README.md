@@ -4,7 +4,7 @@
 
 ## About
 
-### A simple Todo list
+### A simple Todo list with data stored in localstorage
 
 <br>
 
